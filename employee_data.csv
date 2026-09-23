@@ -1,0 +1,13 @@
+Employee_ID,Name,Age,Department,Salary,Experience,City,Joining_Year
+101,Ansim,21,Data,25000,1,Chennai,2024
+102,Aisha,,data,28000,2,Chennai,2023
+103,Rahim,24,HR,,3,chennai,2022
+104,Sara,22,IT,30000,,Coimbatore,2024
+105,Rahim,24,HR,32000,3,Chennai,2022
+106,Meena,-5,IT,35000,4,Coimbatore,2021
+107,Fathima,23,,29000,2,Chennai,2023
+108,Kavin,25,Data,500000,5,CHENNAI,2020
+109,Priya,22,IT,31000,2,Coimbatore,2024
+110,Arun,,it,33000,3,Chennai,2023
+111,Divya,26,Data,36000,6,Chennai,2019
+112,Arun,,it,33000,3,Chennai,2023
